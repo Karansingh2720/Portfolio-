@@ -6,6 +6,7 @@
 body {
     background: #1f2235;
     font-family: "Baloo Tamma 2", cursive;
+  overflow-x: hidden;
   }
   
   /* Main Heading Font */
